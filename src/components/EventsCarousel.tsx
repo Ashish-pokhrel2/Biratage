@@ -9,21 +9,21 @@ const upcomingEvents: Event[] = [
     title: "Teej Festival Celebration",
     date: "September 15, 2025",
     location: "Koshi Tappu Park, Biratnagar",
-    image: "https://images.pexels.com/photos/2187383/pexels-photo-2187383.jpeg?auto=compress&cs=tinysrgb&w=1260"
+    image: "src/assets/teej image.jpg"
   },
   {
     id: 2,
     title: "Traditional Music Concert",
     date: "September 22, 2025",
     location: "Main Theatre, Cultural Center",
-    image: "https://images.pexels.com/photos/2860705/pexels-photo-2860705.jpeg?auto=compress&cs=tinysrgb&w=1260"
+    image: "src/assets/music.webp"
   },
   {
     id: 3,
     title: "Mithila Art Exhibition",
     date: "October 5, 2025",
     location: "City Art Gallery",
-    image: "https://images.pexels.com/photos/821738/pexels-photo-821738.jpeg?auto=compress&cs=tinysrgb&w=1260"
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8kl6QMDTEq7zlGZwNsqySlHhV5XGGEAiCFQ&s"
   },
   {
     id: 4,
@@ -37,7 +37,7 @@ const upcomingEvents: Event[] = [
     title: "Traditional Dance Performance",
     date: "October 25, 2025",
     location: "Community Hall",
-    image: "https://images.pexels.com/photos/2249606/pexels-photo-2249606.jpeg?auto=compress&cs=tinysrgb&w=1260"
+    image: "https://thumbs.dreamstime.com/b/woman-dancer-national-indian-cloth-dancing-bharatanatyam-folk-dance-vector-illustration-isolated-white-classical-90354244.jpg"
   }
 ];
 

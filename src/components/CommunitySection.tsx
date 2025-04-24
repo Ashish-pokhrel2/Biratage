@@ -24,7 +24,7 @@ const communityPosts: CommunityPostType[] = [
     id: 3,
     title: "Teaching My Son Traditional Music",
     excerpt: "Passing down our musical traditions to the next generation. Here's a video of my son learning to play the traditional flute.",
-    image: "https://images.pexels.com/photos/1460037/pexels-photo-1460037.jpeg?auto=compress&cs=tinysrgb&w=1260",
+    image: "https://png.pngtree.com/png-clipart/20240116/original/pngtree-music-teacher-giving-lessons-to-children-hand-drawn-elements-png-image_14123126.png",
     author: "Rajesh Koirala",
     timestamp: "1 week ago"
   }

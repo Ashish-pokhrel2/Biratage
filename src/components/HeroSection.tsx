@@ -9,7 +9,7 @@ const HeroSection: React.FC = () => {
       <div 
         className="w-full bg-cover bg-center h-[85vh]" 
         style={{ 
-          backgroundImage: "url('https://images.pexels.com/photos/2263436/pexels-photo-2263436.jpeg?auto=compress&cs=tinysrgb&w=1260')",
+          backgroundImage: "url('src/assets/img.png')",
           backgroundAttachment: "fixed"
         }}
       ></div>

@@ -6,7 +6,7 @@ const featuredStory: CulturalStory = {
   id: 1,
   title: "The Significance of Janai Purnima in Biratnagar",
   excerpt: "Janai Purnima, also known as Raksha Bandhan, is one of the most important festivals in Nepal. In Biratnagar, this sacred thread ceremony has unique local customs that have been preserved for generations. Discover how the community celebrates this tradition with special rituals and foods that showcase our cultural heritage.",
-  image: "https://images.pexels.com/photos/2555589/pexels-photo-2555589.jpeg?auto=compress&cs=tinysrgb&w=1260",
+  image: "https://studyinsta.com/wp-content/uploads/2024/06/Raksha-Bandhan-A-Celebration-of-Sibling-Love.webp",
   link: "#"
 };
 

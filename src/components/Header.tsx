@@ -31,7 +31,7 @@ const Header: React.FC = () => {
             <img 
               src={logo} 
               alt="Biratage Logo" 
-              className="h-12 md:h-16 transition-transform duration-300 hover:scale-105"
+              className="h-16 md:h-16 transition-transform duration-300 hover:scale-105 rounded-lg"
             />
           </div>
           
@@ -69,7 +69,7 @@ const Header: React.FC = () => {
             
             <button className="flex items-center space-x-2 bg-white/10 hover:bg-white/20 text-white px-6 py-2.5 rounded-xl transition-all duration-300 backdrop-blur-sm">
               <User size={16} />
-              <span>Login</span>
+              <span>Booking</span>
             </button>
           </div>
           

@@ -2,12 +2,12 @@ import React from 'react';
 import { Instagram, Facebook, Twitter, Youtube } from 'lucide-react';
 
 const socialImages = [
-  "https://images.pexels.com/photos/2263436/pexels-photo-2263436.jpeg?auto=compress&cs=tinysrgb&w=400",
-  "https://images.pexels.com/photos/2187383/pexels-photo-2187383.jpeg?auto=compress&cs=tinysrgb&w=400",
-  "https://images.pexels.com/photos/2860705/pexels-photo-2860705.jpeg?auto=compress&cs=tinysrgb&w=400",
-  "https://images.pexels.com/photos/2249606/pexels-photo-2249606.jpeg?auto=compress&cs=tinysrgb&w=400",
-  "https://images.pexels.com/photos/1029141/pexels-photo-1029141.jpeg?auto=compress&cs=tinysrgb&w=400",
-  "https://images.pexels.com/photos/958545/pexels-photo-958545.jpeg?auto=compress&cs=tinysrgb&w=400"
+  "https://images.pexels.com/photos/958545/pexels-photo-958545.jpeg?auto=compress&cs=tinysrgb&w=1260",
+  "https://png.pngtree.com/png-clipart/20240116/original/pngtree-music-teacher-giving-lessons-to-children-hand-drawn-elements-png-image_14123126.png",
+  "https://images.pexels.com/photos/1029141/pexels-photo-1029141.jpeg?auto=compress&cs=tinysrgb&w=1260",
+  "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8kl6QMDTEq7zlGZwNsqySlHhV5XGGEAiCFQ&s",
+  "src/assets/music.webp",
+  "https://studyinsta.com/wp-content/uploads/2024/06/Raksha-Bandhan-A-Celebration-of-Sibling-Love.webp"
 ];
 
 const SocialFeed: React.FC = () => {
